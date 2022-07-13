@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Weather Info/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Weather Info/app/src/main/res/layout/weather_rv_cardview.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/weather-app-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.147" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/weather-app-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/weather-app-master/app/src/main/res/layout/weather_rv_cardview.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/card_back.xml" value="0.1595" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.1485" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3020833333333333" />
+        <entry key="app/src/main/res/layout/weather_rv_cardview.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
